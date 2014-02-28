@@ -1,0 +1,135 @@
+    { "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature",
+      "properties": {
+        "Name": "Aldo's Ristorante Italiano",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.60191599861719,39.285972999888656] }
+    },
+    { "type": "Feature",
+      "properties": {
+        "Name": "The Black Olive",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.59524423677061,39.282041740848186] }
+    },
+    { "type": "Feature",
+      "properties": {
+        "Name": "Charleston",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.5999176129669,39.282645559876116] }
+    },
+    { "type": "Feature",
+      "properties": {
+        "Name": "Cinghiale",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.60033756190181,39.28251742512584] }
+    },
+    { "type": "Feature",
+      "properties": {
+        "Name": "Fleet Street Kitchen",
+        "Address": "1012 Fleet St",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.59934900363538,39.28443499119048] }
+    },
+    { "type": "Feature",
+      "properties": {
+        "Name": "Kali's Court Seafood Restaurant",
+        "Address": "1606 Thames St",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.59473960000003,39.2812633] }
+    },
+    { "type": "Feature",
+      "properties": {
+        "Name": "Ouzo Bay",
+        "Address": "1000 Lancaster St",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.59956356137694,39.2824903700282] }
+    },
+    { "type": "Feature",
+      "properties": {
+        "Name": "PABU",
+        "Address": "725 Aliceanna St",
+        "marker-symbol": "restaurant"
+      },
+      "geometry":  { "type": "Point", "coordinates": [-76.60306800000001,39.2829559] }
+    },
+    { "type": "Feature",
+      "properties": {
+        "Name": "B&O American Brasserie",
+        "Address": "2 N Charles St",
+        "marker-symbol": "restaurant"
+      },
+      "geometry":  { "type": "Point", "coordinates": [-76.61560199999997,39.289807] }
+    },
+    { "type": "Feature",
+      "properties": {
+        "Name": "The Brewer's Art",
+        "Address": "1106 N Charles St",
+        "marker-symbol": "restaurant"
+      },
+      "geometry":  { "type": "Point", "coordinates": [-76.61638800000003,39.302771] }
+    },
+    { "type": "Feature",
+      "properties": {
+        "Name": "The Helmand",
+        "Address": "806 N Charles St",
+        "marker-symbol": "restaurant"
+      },
+      "geometry":  { "type": "Point", "coordinates": [-76.61591620000002,39.2989831] }
+    },
+    { "type": "Feature",
+      "properties": {
+        "Name": "Liv2eat",
+        "Address": "1444 Light St",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.612078,39.272999] }
+    },
+    { "type": "Feature",
+      "properties": {
+        "Name": "Mr. Rain's Fun House",
+        "Address": "800 Key Hwy",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.60692699999998,39.280385] }
+    },
+    { "type": "Feature",
+      "properties": {
+        "Name": "Salt",
+        "Address": "2127 E Pratt St #1",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.58623290000003,39.28931499999999] }
+    },
+    { "type": "Feature",
+      "properties": {
+        "Name": "Tapas Adela Restaurant",
+        "Address": "814 S Broadway",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.59346920000002,39.2821912] }
+    },
+    { "type": "Feature",
+      "properties": {
+        "Name": "TEN TEN",
+        "Address": "1010 Fleet St",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.59969860000001,39.2842986] }
+    },
+    { "type": "Feature",
+      "properties": {
+        "Name": "Marriot",
+        "marker-symbol": "lodging"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.62128666590434,39.286984560266646] }
+    }
+  ]
+}
